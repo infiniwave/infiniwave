@@ -4,7 +4,7 @@ Thanks for visiting! I'm a full-stack developer and high school student based in
 
 I'm open to collaborating on projects. Please contact me at infiniwave@nextflow.cloud.
 
-I'm primarily learning Rust for its practicality. I have been learning about C# since I was very young in 2016 as I was trying to make a desktop app on Windows. I now primarily use TypeScript since I learned JavaScript in 2019 attempting to make Discord bots. I have now moved on to make full-stack apps using technologies such as Tailwind CSS, React/Preact, MongoDB, Express, Node, and now Rust.
+I'm currently learning Rust for its practicality, flexibility, and speed. I have been learning about C# since I was very young in 2016 as I was trying to make a desktop app on Windows. I now primarily use TypeScript since I learned JavaScript in 2019 attempting to make Discord bots. I have now moved on to make full-stack apps using technologies such as Tailwind CSS, React/Preact, MongoDB, Express, Node, and now Rust.
 
 <!--
 
