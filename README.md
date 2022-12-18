@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-Thanks for visiting! I'm a full-stack developer and high school student based in Wisconsin. I collaborate with friends on a suite of open-source services in [Nextflow](https://github.com/Nextflow-Cloud). 
+Thanks for visiting! I'm a full-stack developer, IT enthusiast, musician, and high school student from Wisconsin. I collaborate with friends on a suite of open-source services in [Nextflow](https://github.com/Nextflow-Cloud). 
 
-I'm open to collaborating on projects. Please contact me at infiniwave@nextflow.cloud.
+I am open to collaboration on projects. Please contact me at infiniwave@nextflow.cloud.
 
-I'm currently learning Rust for its practicality, flexibility, and speed. I have been learning about C# since I was very young in 2016 as I was trying to make a desktop app on Windows. I now primarily use TypeScript since I learned JavaScript in 2019 attempting to make Discord bots. I have now moved on to make full-stack apps using technologies such as Tailwind CSS, React/Preact, MongoDB, Express, Node, and now Rust.
+My primary languages currently include Rust and TypeScript. I am currently learning Rust for its practicality, flexibility, and speed. I started to code and learn about C# starting in 2016 while I was trying to make a desktop app on Windows. I learned JavaScript with Node.js in 2019 attempting to make Discord bots. I have now moved on to make full-stack apps using technologies such as Tailwind CSS, React/Preact, MongoDB, Express, Node, and Rust.
+
+I am multilingual. 中文是我的母语。En plus de l'anglais et le chinois, je suis en train d'apprendre le français _y estoy aprendiendo español_.
 
 <!--
 
