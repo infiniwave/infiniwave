@@ -6,7 +6,7 @@ I am open to collaboration on projects. Please contact me at infiniwave@nextflow
 
 My primary languages currently include Rust and TypeScript. I am currently learning Rust for its practicality, flexibility, and speed. I started to code and learn about C# starting in 2016 while I was trying to make a desktop app on Windows. I learned JavaScript with Node.js in 2019 attempting to make Discord bots. I have now moved on to make full-stack apps using technologies such as Tailwind CSS, React/Preact, MongoDB, Express, Node, and Rust.
 
-I am multilingual. 中文是我的母语。En plus de l'anglais et le chinois, je suis en train d'apprendre le français _y estoy aprendiendo español_.
+I am multilingual. 中文和英语是我的母语。En plus de l'anglais et le chinois, je suis en train d'apprendre le français _y estoy aprendiendo español_.
 
 <!--
 
