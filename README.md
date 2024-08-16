@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Thanks for visiting! I'm a full stack developer, IT person, urbanist, musician, and student. 
+
+I'm also the main developer at [Nextflow](https://nextflow.cloud), an open source project I created. Nextflow services typically use TypeScript and Rust. It would be greatly appreciated if you are interested in helping.
+
+You may contact me at infiniwave@nextflow.cloud.
+
 <!--
 **infiniwave/infiniwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
