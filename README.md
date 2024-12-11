@@ -4,7 +4,7 @@ Thanks for visiting! I'm a full stack developer, IT person, urbanist, musician, 
 
 I'm also the main developer at [Nextania](https://nextania.com), an open source project I created. Nextania services typically use TypeScript and Rust. It would be greatly appreciated if you are interested in helping.
 
-You may contact me at infiniwave@nextflow.cloud.
+You may contact me at infiniwave@nextania.com.
 
 <!--
 **infiniwave/infiniwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
