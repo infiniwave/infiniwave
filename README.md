@@ -2,7 +2,7 @@
 
 Thanks for visiting! I'm a full stack developer, IT person, urbanist, musician, and student. 
 
-I'm also the main developer at [Nextflow](https://nextflow.cloud), an open source project I created. Nextflow services typically use TypeScript and Rust. It would be greatly appreciated if you are interested in helping.
+I'm also the main developer at [Nextania](https://nextania.com), an open source project I created. Nextania services typically use TypeScript and Rust. It would be greatly appreciated if you are interested in helping.
 
 You may contact me at infiniwave@nextflow.cloud.
 
